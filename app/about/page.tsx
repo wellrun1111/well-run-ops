@@ -32,10 +32,6 @@ export default function AboutPage() {
               <h1 className="font-serif font-bold text-[#1f3741] leading-[1.02] tracking-tight text-[40px] md:text-[64px]">
                 We build the infrastructure that lets good businesses grow.
               </h1>
-              <p className="text-[18px] leading-8 text-[#2e3b38] md:text-[20px]">
-                Well-Run Ops is a strategic operations studio for business
-                owners who&apos;ve outgrown their current systems.
-              </p>
             </div>
           </Reveal>
         </div>
@@ -44,20 +40,11 @@ export default function AboutPage() {
       {/* STUDIO STORY */}
       <section className="bg-[#f5f0eb]">
         <Reveal>
-          <div className="mx-auto max-w-6xl px-6 py-28 md:px-10">
-            <div className="max-w-4xl space-y-6 text-[18px] leading-8 text-[#2e3b38]">
-              <p>
-                Well-Run Ops is a strategic operations studio for business owners who&apos;ve outgrown their systems.
-              </p>
-              <p>
-                Founded by Kalish Nesbitt. Expanded in 2026 through a partnership with Clara Williams on The Well-Run Reset.
-              </p>
-              <div
-                className="mt-8 w-full rounded-[24px] border-2 border-dashed border-[#2e3b38]/30 bg-[#c6c8c1] flex items-center justify-center text-[#2e3b38] font-semibold text-[15px]"
-                style={{ height: "300px" }}
-              >
-                Photo placeholder
-              </div>
+          <div className="mx-auto max-w-6xl px-6 py-16 md:px-10">
+            <div className="max-w-3xl space-y-6 text-[18px] leading-8 text-[#2e3b38]">
+              <p>The revenue is there. The clients keep coming. But behind the scenes, everything runs through you.</p>
+              <p>We built this studio to fix that. To give growing businesses the operational backbone they need so the owner can finally step back.</p>
+              <p className="font-semibold">Strategy. Systems. Clarity. That&apos;s the work.</p>
             </div>
           </div>
         </Reveal>
